@@ -1,5 +1,3 @@
-//Or Cohen 307852681
-//Jonas Zerbib 340941301
 package view;
 
 //Jonas Zerbib 340941301
